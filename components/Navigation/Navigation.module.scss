@@ -1,0 +1,17 @@
+.navList {
+    list-style: none;
+    display: flex;
+    padding: 0;
+}
+
+.navItem {
+    margin-right: 1em;
+}
+
+.navLink {
+    text-decoration: underline;
+}
+
+.nonLink {
+    cursor: default;
+}
